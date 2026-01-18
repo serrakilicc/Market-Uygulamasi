@@ -1,4 +1,4 @@
-# Mağaza Uygulaması
+# Market Uygulaması
 
 C# ve Windows Forms kullanılarak geliştirilen, **Nesne Yönelimli Programlama (OOP)** prensiplerini gerçek hayat senaryosunda uygulayan sanal market projesidir.
 
